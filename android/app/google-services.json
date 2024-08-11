@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350290070011",
+    "project_id": "rashid-3b5e0",
+    "storage_bucket": "rashid-3b5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350290070011:android:82d57545ba76eee74fe35e",
+        "android_client_info": {
+          "package_name": "com.example.rashid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3TDT3m-AZfB3WBTaRycKnvDekGFGR28o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
